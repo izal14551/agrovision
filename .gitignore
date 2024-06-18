@@ -1,0 +1,8 @@
+# Dependecies
+node_modules/
+
+# Secret
+.env
+
+# sql dump files
+*.sql
