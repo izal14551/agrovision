@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91574625047",
+    "project_id": "agrovision-425105",
+    "storage_bucket": "agrovision-425105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91574625047:android:94a67d7a0e3944d56a4d52",
+        "android_client_info": {
+          "package_name": "com.capstone.agrovision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLYnpdsy9NilzLN3b78ZgJKrOO8SEB88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91574625047:android:0cf6a3624ecff3b96a4d52",
+        "android_client_info": {
+          "package_name": "com.gunder.authfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwLYnpdsy9NilzLN3b78ZgJKrOO8SEB88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
